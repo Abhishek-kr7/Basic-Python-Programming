@@ -1,7 +1,7 @@
 #=========================================#
 #            LOOPS IN PYTHON              #
 #=========================================#
-Python has two primitive loop commands:
+#Python has two primitive loop commands:
 
 #while loops
 #for loops
